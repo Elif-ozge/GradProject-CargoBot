@@ -1,19 +1,3 @@
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="assets/cargobot_side.jpeg" alt="CargoBot — Side View" height="330"/>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://youtu.be/Xez-fVTNmT0" target="_blank">
-        <img src="assets/yt_thumbnail.png" alt="CargoBot Demo Video" height="330"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="assets/cargobot_rear.jpeg" alt="CargoBot — Rear View" height="330"/>
-    </td>
-  </tr>
-</table>
-
 <h1 align="center">🤖 CargoBot</h1>
 <p align="center">
   <b>Autonomous Ground Cargo Robot</b><br/>
@@ -26,6 +10,16 @@
   <img src="https://img.shields.io/badge/SLAM-Google%20Cartographer-4285F4?logo=google&logoColor=white" alt="Cartographer"/>
   <img src="https://img.shields.io/badge/Nav-move__base%20%2B%20DWA-orange" alt="Navigation"/>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>
+</p>
+
+<p align="center">
+  <img src="assets/cargobot_side.jpeg" alt="CargoBot — Side View" height="265"/>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/Xez-fVTNmT0" target="_blank">
+    <img src="assets/yt_thumbnail.png" alt="CargoBot Demo Video" height="265"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="assets/cargobot_rear.jpeg" alt="CargoBot — Rear View" height="265"/>
 </p>
 
 ---
