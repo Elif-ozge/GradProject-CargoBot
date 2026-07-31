@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/cargobot_side.jpeg" alt="CargoBot — Side View" height="265"/>
+  <img src="assets/cargobot_side.jpeg" alt="CargoBot — Side View" height="250"/>
   &nbsp;&nbsp;
   <a href="https://youtu.be/Xez-fVTNmT0" target="_blank">
-    <img src="assets/yt_thumbnail.png" alt="CargoBot Demo Video" height="265"/>
+    <img src="assets/yt_thumbnail.png" alt="CargoBot Demo Video" height="250"/>
   </a>
   &nbsp;&nbsp;
-  <img src="assets/cargobot_rear.jpeg" alt="CargoBot — Rear View" height="265"/>
+  <img src="assets/cargobot_rear.jpeg" alt="CargoBot — Rear View" height="250"/>
 </p>
 
 ---
