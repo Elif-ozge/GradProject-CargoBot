@@ -382,5 +382,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <i>Built with ❤️ as a graduation project — 2026</i>
+  <i>Built with ❤️ by "sigterm" as a graduation project — 2026</i>
 </p>
