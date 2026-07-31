@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/cargobot_side.jpeg" alt="CargoBot — Side View" height="230"/>
+  <img src="assets/cargobot_side.jpeg" alt="CargoBot — Side View" height="330"/>
   &nbsp;&nbsp;&nbsp;
   <a href="https://youtu.be/Xez-fVTNmT0" target="_blank">
-    <img src="assets/yt_thumbnail.png" alt="CargoBot Demo Video" height="230"/>
+    <img src="assets/yt_thumbnail.png" alt="CargoBot Demo Video" height="330"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/cargobot_rear.jpeg" alt="CargoBot — Rear View" height="230"/>
+  <img src="assets/cargobot_rear.jpeg" alt="CargoBot — Rear View" height=330"/>
 </p>
 
 <h1 align="center">🤖 CargoBot</h1>
